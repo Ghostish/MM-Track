@@ -1,0 +1,8 @@
+.subtitle {
+    font-family: Ubuntu, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, .56);
+}
+
+body {
+    min-width: 800px;
+}
