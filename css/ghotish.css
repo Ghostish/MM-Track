@@ -6,3 +6,7 @@
 body {
     min-width: 800px;
 }
+
+.container-sm.w-75 {
+    max-width: 800px;
+}
